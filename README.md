@@ -69,6 +69,6 @@ If you want to run this project on your own machine:
 ---
 
 ## 👨‍💻 Developer
-**BhaskarNova** *B.Tech Information Technology | AI Enthusiast*
+**Dinesh Karthick** *B.Tech Artificial Intelligence and Data Science | AI Enthusiast*
 
 ---
